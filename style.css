@@ -1,0 +1,70 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to bottom right, #EE4000, #00FF66,#FFC0CB);
+}
+h2{
+    font-size: 30px;
+    color: #FFFF99;
+    text-shadow: green 2px 3px 4px;
+    font-family: Segoe Print;
+}
+h4{
+    color:  #FFFAF0;
+    font-size: 25px;
+    font-style: italic;
+}
+.first ul li {
+    /*display: block;
+    list-style-type: disc;
+    padding-left: 20px;*/
+    text-indent: initial;
+    text-align: justify;
+    font-size: 20px;
+    font-family: Times New Roman;
+    font-weight: bolder;
+    list-style-type: none;
+    margin: auto;
+    padding-left: 45%;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    color:#000099;
+}
+form span{
+    text-align: center;
+    color: #E8E8E8;
+    display: block;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Lucida Grande;
+}
+form input{
+    border-radius: 3px;
+    padding: 3px;
+}
+.table{
+    margin: auto;
+    width: 40%;
+    border: 3px ;
+    padding-left: 50px;
+}
+.vanban span{
+    text-align: center;
+    color: #330099;
+}
+span{
+    color: #330099;
+}
+.vanban img{
+     /* box-shadow: 3px 0px 5px 5px #222222;*/
+    -moz-box-shadow: 5px 5px 7px 0px #222222;
+    -webkit-box-shadow: 5px 5px 7px 0px #222222;
+    box-shadow: 5px 5px 7px 0px #222222;
+}
+.covid{
+    -moz-box-shadow: 5px 5px 7px 0px #222222;
+    -webkit-box-shadow: 5px 5px 7px 0px #222222;
+    box-shadow: 5px 5px 7px 0px #222222;
+}
